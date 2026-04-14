@@ -86,7 +86,7 @@ Kami menanggapi keamanan dengan sangat serius. Pembaruan v11.4 telah menambal be
 
 [IMPLEMENTED] Mempool Garbage Collection & Anti-Spam Rate Limiting (Max 2000 TX).
 
-Menemukan bug keamanan? Mohon jangan buka Issue publik. Kirimkan laporan ke email: security@jagat-arsy.org
+Menemukan bug keamanan? Mohon jangan buka Issue publik. Kirimkan laporan ke email: info@kcln.my.id
 
 🤝 Kontribusi (Contributing)
 
@@ -109,8 +109,6 @@ Jagat Arsy Core dirilis di bawah MIT License. Anda bebas untuk menggunakan, memo
 <div align="center">
 <b>© 2026 Jagat Arsy Foundation</b>
 
-
-
-
 <i>"Code is Law. Decentralization is Freedom."</i>
+
 </div>
